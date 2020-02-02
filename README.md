@@ -29,7 +29,7 @@ If you are looking for the siblings app that's based on Xamarin.Forms to work wi
 - Share functionality
 
 ## App screenshots
-<center>![App screenshots](docs/screens.png)</center>
+![App screenshots](docs/screens.png)
 
 ## Caution
 Due to the early days of the Surface Neo, there is no emulator or a SDK. I try to update this project with new features until it is actual runable.
