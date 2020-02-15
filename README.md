@@ -34,6 +34,9 @@ If you are looking for the siblings app that's based on Xamarin.Forms to work wi
 ## Caution
 Due to the early days of the Surface Neo, there is no emulator or a SDK. I try to update this project with new features until it is actual runable.
 
+**Update**
+The Surface Neo emulator required Windows 10 Pro or higher. I do not own a license for this kind of Windows 10 version. As long as I cannot run it on an emulator, I'll pause the development on this app.
+
 ## Keep in mind
 This app is purely build for having fun! All features have room for improvements or could be done more elegant.
 
